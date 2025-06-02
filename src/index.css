@@ -7,7 +7,7 @@
 /* Custom styles for the payment success page */
 .payment-success-container {
   min-height: 100vh;
-  background: linear-gradient(135deg, #347aeb 0%, #4a90e2 100%);
+  background: white;
   display: flex;
   align-items: center;
   justify-content: center;
